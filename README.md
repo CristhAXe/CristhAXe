@@ -19,7 +19,7 @@ I work on Windows but I'm pushing myself into more demanding dev environments. C
 `Python` `FastAPI` `PostgreSQL` `Azure` `Docker` `Redis` `REST APIs` `Bash` `Neovim`
 
 ---
-CodeWars: https://www.codewars.com/users/CristhAXe/badges/large
+CodeWars: [ https://www.codewars.com/users/CristhAXe/badges/large](https://www.codewars.com/users/CristhAXe/badges/large)
 
 ---
 
