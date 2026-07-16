@@ -20,7 +20,7 @@ I work on Windows but I'm pushing myself into more demanding dev environments. C
 
 ---
 ![Codewars Badge](https://www.codewars.com/users/CristhAXe/badges/large)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristhAXe&show_icons=true)
 ---
 
 **A few things about me**
