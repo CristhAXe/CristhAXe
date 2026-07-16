@@ -19,8 +19,8 @@ I work on Windows but I'm pushing myself into more demanding dev environments. C
 `Python` `FastAPI` `PostgreSQL` `Azure` `Docker` `Redis` `REST APIs` `Bash` `Neovim`
 
 ---
-![Codewars Badge](https://www.codewars.com/users/CristhAXe/badges/large)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristhAXe&show_icons=true)
+![Codewars Badge](https://www.codewars.com/users/CristhAXe/badges/small)
+
 ---
 
 **A few things about me**
