@@ -15,7 +15,7 @@ I'm always looking to improve — the code, the process, and the way I approach 
 
 **What I'm working with**
 
-`JavaScript` `React``Python` `FastAPI` `PostgreSQL` `Azure` `Docker` `Redis` `REST APIs` `Bash` `Neovim`
+`JavaScript` `React` `Python` `FastAPI` `PostgreSQL` `Azure` `Docker` `Redis` `REST APIs` `Bash` `Neovim`
 
 ---
 ![Codewars Badge](https://www.codewars.com/users/CristhAXe/badges/small)
