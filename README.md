@@ -1,21 +1,16 @@
-# Hello there 👋
+## Hi, I'm Cristh 👋
 
----
-Full Stack Developer focused on building software that solves real problems.
+Backend developer focused on building reliable APIs and real-world solutions.
 
-I work mainly with Python, FastAPI, React, PostgreSQL and Docker — building REST APIs, designing database structures, creating user interfaces, and connecting the different layers that make applications work.
+**Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · Docker · Redis
 
-I enjoy understanding how systems work from end to end, from backend architecture and data flow to the user experience on the frontend. My goal is not only to write code, but to create useful, reliable and maintainable solutions.
+**Currently:** Building portfolio projects · Studying AWS & Azure AI-900
 
-Outside of work, I build projects where I explore AI integration, local LLMs and new technologies to understand how they can be applied in practical ways.
-
-I'm always looking to improve — the code, the process, and the way I approach problems. Currently exploring cloud technologies, software architecture, and better development workflows while continuously challenging myself with new tools and environments.
-
----
+📍 Arequipa, Peru
 
 **What I'm working with**
 
-`JavaScript` `React` `Python` `FastAPI` `PostgreSQL` `Azure` `Docker` `Redis` `REST APIs` `Bash` `Neovim`
+`JavaScript` `Python` `FastAPI` `PostgreSQL` `Azure` `Docker` `Redis` `REST APIs` `Bash` `Neovim`
 
 ---
 ![Codewars Badge](https://www.codewars.com/users/CristhAXe/badges/small)
