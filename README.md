@@ -1,4 +1,4 @@
-## Hi, I'm Cristh 👋
+## Hi, I'm Cristh 
 
 Backend developer focused on building reliable APIs and real-world solutions.
 
