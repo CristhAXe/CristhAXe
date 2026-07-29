@@ -17,7 +17,6 @@ Currently exploring the intersection of backend engineering and AI integrations.
 
 - Building production-ready backend systems with Python & FastAPI
 - Exploring AI integrations and local LLM tooling (RAG, Ollama)
-- Preparing for the Anyone AI ML Fellowship
 
 ## 🌌 Fun Facts
 
