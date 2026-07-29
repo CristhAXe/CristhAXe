@@ -1,25 +1,33 @@
-## Hi, I'm Cristh 
+# Hey, I'm Cristhian 👋
 
-Backend developer focused on building reliable APIs and real-world solutions.
+Software Developer focused on backend systems and API development.
+Curious by nature — I learn best by breaking things and rebuilding them better.
 
-**Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · Docker · Redis
+Currently exploring the intersection of backend engineering and AI integrations.
 
-**Currently:** Building portfolio projects · Studying AWS & Azure AI-900
+## 🛠️ Stack
 
-📍 Arequipa, Peru
+- **Languages:** Python, SQL, JavaScript
+- **Backend:** FastAPI, REST APIs
+- **Databases:** PostgreSQL, Redis
+- **DevOps:** Docker, Linux
+- **Learning:** Machine Learning, LangChain, Cloud (Azure AI)
 
-**What I'm working with**
+## 🚀 What I'm working on
 
-`JavaScript` `Python` `FastAPI` `PostgreSQL` `Azure` `Docker` `Redis` `REST APIs` `Bash` `Neovim`
+- Building production-ready backend systems with Python & FastAPI
+- Exploring AI integrations and local LLM tooling (RAG, Ollama)
+- Preparing for the Anyone AI ML Fellowship
 
----
+## 🌌 Fun Facts
+
+- I enjoy sci-fi and dystopian books
+- Linux + Neovim daily driver
+- MOBA & indie games
+- No coffee — ever
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristhian-blue?logo=linkedin)](https://www.linkedin.com/in/cristhian-nunoncca-kuriaki/)
 ![Codewars Badge](https://www.codewars.com/users/CristhAXe/badges/small)
 
----
-
-**A few things about me**
-
-- I read sci-fi and dystopian books
-- I don't drink coffee
-- I play MOBA and indie games
-- I break things on purpose to understand how they work
