@@ -29,5 +29,5 @@ Currently exploring the intersection of backend engineering and AI integrations.
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristhian-blue?logo=linkedin)](https://www.linkedin.com/in/cristhian-nunoncca-kuriaki/)
-![Codewars Badge](https://www.codewars.com/users/CristhAXe/badges/small)
+  ![Codewars Badge](https://www.codewars.com/users/CristhAXe/badges/small)
 
