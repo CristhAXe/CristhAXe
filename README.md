@@ -4,12 +4,12 @@ I work primarily with Python, TypeScript, FastAPI, React, and PostgreSQL, with a
 
 Tech
 
-Languages: Python · TypeScript · JavaScript · SQL
-Backend: FastAPI · Node.js · REST APIs
-Frontend: React · Tailwind CSS
-Data: PostgreSQL · SQLAlchemy · Redis
-Tools: Docker · Git · Linux
-Cloud: AWS · Azure
+- Languages: Python · TypeScript · JavaScript · SQL
+- Backend: FastAPI · Node.js · REST APIs
+- Frontend: React · Tailwind CSS
+- Data: PostgreSQL · SQLAlchemy · Redis
+- Tools: Docker · Git · Linux
+- Cloud: AWS · Azure
 
 ## 📫 Let's connect
 
