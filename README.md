@@ -1,15 +1,17 @@
-Software Developer focused on backend development, with experience building APIs, web applications, and software integrations.
+Software Developer focused on backend development, with experience building
+REST APIs, web applications, and software integrations.
 
-I work primarily with Python, TypeScript, FastAPI, React, and PostgreSQL, with an interest in backend systems, cloud, and applied AI.
+I work primarily with Python, TypeScript, FastAPI, React, and PostgreSQL,
+with an interest in backend systems, cloud computing, and applied AI.
 
-Tech
+## 🛠 Tech Stack
 
-- Languages: Python · TypeScript · JavaScript · SQL
-- Backend: FastAPI · Node.js · REST APIs
-- Frontend: React · Tailwind CSS
-- Data: PostgreSQL · SQLAlchemy · Redis
-- Tools: Docker · Git · Linux
-- Cloud: AWS · Azure
+- **Languages:** Python · TypeScript · JavaScript · SQL
+- **Backend:** FastAPI · Node.js · REST APIs · SQLAlchemy
+- **Frontend:** React · Tailwind CSS
+- **Databases:** PostgreSQL · MongoDB
+- **Tools:** Git · Docker · Docker Compose · Linux
+- **Cloud & Deployment:** AWS · Azure · Railway · Vercel
 
 ## 📫 Let's connect
 
