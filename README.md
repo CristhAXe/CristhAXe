@@ -14,6 +14,6 @@ Interested in backend systems, cloud computing, and applied AI.
 - **Cloud & Deployment:** AWS · Azure · Railway · Vercel
 
 ## 📫 Let's connect
-
+- **Portafolio:** [click_me](https://cristhaxe.github.io/portafolio-cristhnk/#inicio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristhian-blue?logo=linkedin)](https://www.linkedin.com/in/cristhian-nunoncca-kuriaki/)
 
