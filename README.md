@@ -1,8 +1,8 @@
-Software Developer focused on backend development, with experience building
-REST APIs, web applications, and software integrations.
+# Hi, I'm Cristhian 👋
 
-I work primarily with Python, TypeScript, FastAPI, React, and PostgreSQL,
-with an interest in backend systems, cloud computing, and applied AI.
+Software Developer focused on backend development, building APIs, web applications, and software integrations.
+
+Interested in backend systems, cloud computing, and applied AI.
 
 ## 🛠 Tech Stack
 
@@ -16,6 +16,4 @@ with an interest in backend systems, cloud computing, and applied AI.
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristhian-blue?logo=linkedin)](https://www.linkedin.com/in/cristhian-nunoncca-kuriaki/)
-  
-![Codewars Badge](https://www.codewars.com/users/CristhAXe/badges/small)
 
