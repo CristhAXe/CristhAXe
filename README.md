@@ -1,19 +1,18 @@
 # Hi, I'm Cristhian 👋
 
-Software Developer focused on backend development, building APIs, web applications, and software integrations.
+Software Developer focused on backend development with Python, FastAPI, and PostgreSQL.
 
-Interested in backend systems, cloud computing, and applied AI.
+I build REST APIs, integrate web applications, and work with databases, Docker, and cloud services. Currently strengthening my backend fundamentals and exploring applied AI.
 
 ## 🛠 Tech Stack
 
-- **Languages:** Python · TypeScript · JavaScript · SQL
-- **Backend:** FastAPI · Node.js · REST APIs · SQLAlchemy
-- **Frontend:** React · Tailwind CSS
-- **Databases:** PostgreSQL · MongoDB
-- **Tools:** Git · Docker · Docker Compose · Linux
-- **Cloud & Deployment:** AWS · Azure · Railway · Vercel
+- **Backend:** Python · FastAPI · REST APIs · SQLAlchemy
+- **Databases:** PostgreSQL · MongoDB · SQL
+- **Frontend:** JavaScript/TypeScript · React · Tailwind CSS
+- **Testing & Tools:** Pytest · Git · Docker · Docker Compose · Linux
+- **Cloud & Deployment:** AWS · Railway · Vercel
 
-## 📫 Let's connect
-- **Portfolio:** [click_me](https://cristhaxe.github.io/portafolio-cristhnk/#inicio)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristhian-blue?logo=linkedin)](https://www.linkedin.com/in/cristhian-nunoncca-kuriaki/)
+## 📫 Contact
 
+- **Portfolio:** [cristhaxe.github.io/portafolio-cristhnk](https://cristhaxe.github.io/portafolio-cristhnk/#inicio)
+- **LinkedIn:** [Cristhian Nunoncca Kuriaki](https://www.linkedin.com/in/cristhian-nunoncca-kuriaki/)
