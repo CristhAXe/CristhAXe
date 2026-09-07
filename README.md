@@ -16,3 +16,6 @@ I build REST APIs, integrate web applications, and work with databases, Docker, 
 
 - **Portfolio:** [cristhaxe.github.io/portafolio-cristhnk](https://cristhaxe.github.io/portafolio-cristhnk/#inicio)
 - **LinkedIn:** [Cristhian Nunoncca Kuriaki](https://www.linkedin.com/in/cristhian-nunoncca-kuriaki/)
+- <p align="left">
+  <img src="https://api.boot.dev/v1/users/public/84a479b7-ae83-4e99-852a-17228301b64a/thumbnail" >
+</p>
