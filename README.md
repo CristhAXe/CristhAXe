@@ -11,4 +11,3 @@
   - **Portfolio:**
   [cristhaxe.github.io/portafolio-cristhnk](https://cristhaxe.github.io/portafolio-cristhnk/#inicio)
   - **LinkedIn:** [Cristhian Nunoncca Kuriaki](https://www.linkedin.com/in/cristhian-nunoncca-kuriaki/)
-  - **GitHub:** [CristhAXe](https://github.com/CristhAXe)
